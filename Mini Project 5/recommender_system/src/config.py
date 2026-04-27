@@ -12,5 +12,5 @@ NUM_ITEMS = 1682
 
 # Training Hyperparameters
 BATCH_SIZE = 1024  # Recommender batches are usually massive
-EPOCHS = 10
+EPOCHS = 100
 LEARNING_RATE = 1e-3
