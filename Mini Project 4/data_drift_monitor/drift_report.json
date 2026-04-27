@@ -1,0 +1,42 @@
+{
+    "MedInc": {
+        "drift_detected": true,
+        "p_value": 0.0,
+        "ks_statistic": 0.3711730496453901
+    },
+    "HouseAge": {
+        "drift_detected": true,
+        "p_value": 0.0,
+        "ks_statistic": 0.30004397163120566
+    },
+    "AveRooms": {
+        "drift_detected": true,
+        "p_value": 2.1247307216137585e-30,
+        "ks_statistic": 0.09162978723404253
+    },
+    "AveBedrms": {
+        "drift_detected": true,
+        "p_value": 0.00018174111922371314,
+        "ks_statistic": 0.03364822695035463
+    },
+    "Population": {
+        "drift_detected": false,
+        "p_value": 0.07368567476855448,
+        "ks_statistic": 0.020025531914893646
+    },
+    "AveOccup": {
+        "drift_detected": true,
+        "p_value": 5.592673482669479e-22,
+        "ks_statistic": 0.07771489361702122
+    },
+    "Latitude": {
+        "drift_detected": true,
+        "p_value": 0.0,
+        "ks_statistic": 0.49064822695035465
+    },
+    "Longitude": {
+        "drift_detected": true,
+        "p_value": 0.0,
+        "ks_statistic": 0.5602482269503546
+    }
+}
